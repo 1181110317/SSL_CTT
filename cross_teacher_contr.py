@@ -988,8 +988,8 @@ def main():
 
 
             if with_embed and contr_train==True:
-                loss_l = L_l_l +L_u_ema_l +0.1*L_l_contr_cross+0.1*L_l_contr
-                loss_r = L_l_r +L_u_ema_r+ 0.1*L_r_contr_cross+0.1*L_r_contr
+                loss_l = L_l_l +L_u_ema_l
+                loss_r = L_l_r +L_u_ema_r
             else:
                 loss_l = L_l_l+L_u_ema_l
                 loss_r = L_l_r+L_u_ema_r
