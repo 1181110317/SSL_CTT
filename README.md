@@ -27,7 +27,7 @@ Download the dataset from [here](https://www.cityscapes-dataset.com/).
 ### Pascal VOC 2012
 
 ```
-mkdir ../data/VOC2012/
+mkdir ../dataset/VOC2012/
 ```
 
 Download the dataset from [here](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/).
