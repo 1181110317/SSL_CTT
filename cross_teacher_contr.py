@@ -1,5 +1,5 @@
 import argparse
-import os`
+import os
 import sys
 import random
 import timeit
