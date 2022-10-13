@@ -57,7 +57,7 @@ python3 cross_teacher_deeplabv3+.py --config ./configs/configCityscapes.json --n
 ```
 @article{xiao2022semi,
   title={Semi-supervised semantic segmentation with cross teacher training},
-  author={Xiao, Hui and Li, Dong and Xu, Hao and Fu, Shuibo and Yan, Diqun and Song, Kangkang and Peng, Chengbin},
+  author={Xiao, Hui and Dong, Li and Xu, Hao and Fu, Shuibo and Yan, Diqun and Song, Kangkang and Peng, Chengbin},
   journal={Neurocomputing},
   volume={508},
   pages={36--46},
