@@ -1,6 +1,6 @@
 # SSL_CTT
 
-This repository contains the official implementation of [Semi-Supervised Semantic Segmentation with Cross Teacher Training](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010384),  [arxiv](https://arxiv.org/pdf/2209.01327.pdf).
+This repository contains the official implementation of [Semi-Supervised Semantic Segmentation with Cross Teacher Training](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010384),   [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010384),  [arxiv](https://arxiv.org/pdf/2209.01327.pdf).
 
 This code is based on [ClassMix code](https://github.com/WilhelmT/ClassMix)
 
