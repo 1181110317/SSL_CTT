@@ -2,6 +2,7 @@
 
 This repository contains the official implementation of the following manuscript: 
 > Hui Xiao, Li Dong, Hao Xu, Shuibo Fu, Diqun Yan, Kangkang Song, and Chengbin Peng. "Semi-supervised semantic segmentation with cross teacher training." Neurocomputing 508 (2022): 36-46.  
+
 [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010384),  [arxiv](https://arxiv.org/pdf/2209.01327.pdf).
 
 This code is based on [ClassMix code](https://github.com/WilhelmT/ClassMix)
